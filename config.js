@@ -12,12 +12,12 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 global.owner = [
-["5218143603516", 'Tilin', true], //el tilin
-["5218143603516", 'gay', true], //es gay
-["5218143603516"]]
+["5219831306428", '亗Mคгץє ᰔᩚ ', true], //el tilin
+["5219831306428", 'Tilin', true], //es gay
+["5219831306428"]]
 
-global.mods = ["5218143603516"]
-global.prems = ["5218143603516"]
+global.mods = ["5219831306428"]
+global.prems = ["5219831306428"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
@@ -112,9 +112,9 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["5218143603516", 'tilin', 1], 
-["5218143603516", 'tilinn', 1],  
-["5218143603516", 'Tilins', 1]]
+["5219831306428", 'tilin', 1], 
+["5219831306428", 'tilinn', 1],  
+["5219831306428", 'Tilins', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -122,8 +122,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = "𝗞𝗔𝗢𝗭-𝗕𝗢𝗧"
-global.author = "𝗞𝗔𝗢𝗭-𝗕𝗢𝗧"
+global.packname = "亗Yαѕιєℓ у ναℓє ᰔᩚ "
+global.author = "亗Yαѕιєℓ у ναℓє ᰔᩚ "
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -131,7 +131,7 @@ global.author = "𝗞𝗔𝗢𝗭-𝗕𝗢𝗧"
 // [EN] > BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
-global.gt = "𝗞𝗔𝗢𝗭-𝗕𝗢𝗧"
+global.gt = "亗Yαѕιєℓ у ναℓє ᰔᩚ "
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -153,13 +153,13 @@ global.mal = mg
 global.eeg = '╰⊱📩⊱ *𝙍𝙀𝙋𝙊𝙍𝙏𝙀 | 𝙍𝙀𝙋𝙊𝙍𝙏* ⊱📩⊱╮\n\n'
 global.envio = eeg
 
-global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎𝙎* ⊱💚⊱╮\n\n'
+global.eg = '╰⊱👑 ✨⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎𝙎* ⊱👑 ✨⊱╮\n\n'
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "𝗞𝗔𝗢𝗭-𝗕𝗢𝗧"
-global.igfg = "𝗞𝗔𝗢𝗭-𝗕𝗢𝗧"
-global.nomorown = "5218143603516"
+global.wm = "亗Yαѕιєℓ у ναℓє ᰔᩚ "
+global.igfg = "亗Yαѕιєℓ у ναℓє ᰔᩚ "
+global.nomorown = "5219831306428"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
